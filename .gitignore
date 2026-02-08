@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build outputs
+**/x64/
+**/Release/
+**/Debug/
+**/*.obj
+**/*.pdb
+**/*.ipdb
+**/*.iobj
+**/*.tlog
+**/*.log
+**/*.lastbuildstate
+**/*.recipe
+
+# Node
+node_modules/
+
+# Optional: archives (uncomment if you don't want zips in the repo)
+# *.zip
